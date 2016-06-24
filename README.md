@@ -13,7 +13,7 @@
 	服务宿主：VMware，虚拟主机（服务所在地）
 	反向代理：nginx(放在物理主机)
 	
-	
+![部署图](https://github.com/zhougch5/server-manage/blob/master/%E9%83%A8%E7%BD%B2%E5%9B%BE.png)	
 
 ###解决方法
 
