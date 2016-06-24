@@ -26,4 +26,10 @@
 ###脚本编写
 主要是batch脚本的编程，batch的基础知识可以参考[这里](http://www.tutorialspoint.com/batch_script/batch_script_tutorial.pdf)
 根据官方VMware官方提供的[api](https://www.vmware.com/support/developer/prog-api/)和[知识](http://pubs.vmware.com/workstation-12/index.jsp?topic=%2Fcom.vmware.ws.using.doc%2FGUID-DA203314-F153-4F1F-8FCF-A7700530943D.html), 编写出脚本[autoRunMutipleServices.bat](https://github.com/zhougch5/server-manage/blob/master/autoRunMutipleServices.bat)
-	
+
+
+###相关知识
+1. [batch当中的start的用法](https://technet.microsoft.com/en-us/library/cc770297(v=ws.11).aspx)
+2. [添加task到task schedulerd1教程](http://superuser.com/questions/640771/run-windows-batch-files-at-startup-or-when-any-user-logs-on)
+3. [task在登录和非登录两种情况下的区别](http://superuser.com/questions/616206/run-interactive-task-even-if-user-is-not-logged-on-windows)
+
