@@ -25,5 +25,5 @@
 
 ###脚本编写
 主要是batch脚本的编程，batch的基础知识可以参考[这里](http://www.tutorialspoint.com/batch_script/batch_script_tutorial.pdf)
-根据官方VMware官方提供的[api](https://www.vmware.com/support/developer/prog-api/)和[知识](http://pubs.vmware.com/workstation-12/index.jsp?topic=%2Fcom.vmware.ws.using.doc%2FGUID-DA203314-F153-4F1F-8FCF-A7700530943D.html), 编写出脚本[autoRunMutipleServices.bat]()
+根据官方VMware官方提供的[api](https://www.vmware.com/support/developer/prog-api/)和[知识](http://pubs.vmware.com/workstation-12/index.jsp?topic=%2Fcom.vmware.ws.using.doc%2FGUID-DA203314-F153-4F1F-8FCF-A7700530943D.html), 编写出脚本[autoRunMutipleServices.bat](https://github.com/zhougch5/server-manage/blob/master/autoRunMutipleServices.bat)
 	
