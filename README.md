@@ -33,3 +33,5 @@
 2. [添加task到task schedulerd教程](http://superuser.com/questions/640771/run-windows-batch-files-at-startup-or-when-any-user-logs-on)
 3. [task在登录和非登录两种情况下的区别](http://superuser.com/questions/616206/run-interactive-task-even-if-user-is-not-logged-on-windows)
 
+###总结
+做令自己快乐的事情
